@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Page Object test example" >
+    <test name ="TEST DEMO99.COM">
+        <classes>
+            <class name="ParallelMode.Tests.LogInTest"/>
+            <class name="ParallelMode.Tests.AddNewCustomer_Test"/>
+        </classes>
+    </test>
+</suite>

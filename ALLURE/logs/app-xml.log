@@ -1,0 +1,42 @@
+[INFO ] 17-10-2022 16:22:56 [main] BaseSetupPage - I am in onStart method TEST DEMOGURU99.COM
+[INFO ] 17-10-2022 16:22:56 [main] BaseSetupPage - Run set up driver in BaseSetupTest
+[INFO ] 17-10-2022 16:22:56 [main] BaseSetupPage -  Driver start !!!
+[INFO ] 17-10-2022 16:23:15 [main] BaseSetupPage - logIn_Test_success test is starting.
+[INFO ] 17-10-2022 16:23:15 [main] BaseSetupPage - logIn_Test_success test is failed.
+[INFO ] 17-10-2022 16:23:16 [main] BaseSetupPage - Test is ending!!!
+[INFO ] 17-10-2022 16:23:17 [main] BaseSetupPage - I am in onFinish method TEST DEMOGURU99.COM
+[INFO ] 17-10-2022 16:40:58 [main] BaseSetupPage - I am in onStart method TEST DEMOGURU99.COM
+[INFO ] 17-10-2022 16:40:58 [main] BaseSetupPage - Run set up driver in BaseSetupTest
+[INFO ] 17-10-2022 16:40:58 [main] BaseSetupPage -  Driver start !!!
+[INFO ] 17-10-2022 16:41:16 [main] BaseSetupPage - logIn_Test_success test is starting.
+[INFO ] 17-10-2022 16:41:16 [main] BaseSetupPage - logIn_Test_success test is failed.
+[INFO ] 17-10-2022 16:41:16 [main] BaseSetupPage - Test is ending!!!
+[INFO ] 17-10-2022 16:41:17 [main] BaseSetupPage - I am in onFinish method TEST DEMOGURU99.COM
+[INFO ] 18-10-2022 11:02:13 [main] BaseSetupPage - Run set up driver in BaseSetupTest
+[INFO ] 18-10-2022 11:02:13 [main] BaseSetupPage -  Driver start !!!
+[INFO ] 18-10-2022 11:03:41 [main] BaseSetupPage - Run set up driver in BaseSetupTest
+[INFO ] 18-10-2022 11:06:07 [main] BaseSetupPage - Run set up driver in BaseSetupTest
+[INFO ] 18-10-2022 14:01:57 [main] BaseSetupPage - I am in onStart method TEST DEMOGURU99.COM
+[INFO ] 18-10-2022 14:01:57 [main] BaseSetupPage - Run set up driver in Base Setup Test
+[INFO ] 18-10-2022 14:01:57 [main] BaseSetupPage -  Driver start !!!
+[INFO ] 18-10-2022 14:02:08 [main] BaseSetupPage - logIn_Test_success test is starting.
+[INFO ] 18-10-2022 14:02:08 [main] BaseSetupPage - logIn_Test_success test is failed.
+[INFO ] 18-10-2022 14:02:09 [main] BaseSetupPage - Test is ending!!!
+[INFO ] 18-10-2022 14:02:10 [main] BaseSetupPage - I am in onFinish method TEST DEMOGURU99.COM
+[INFO ] 18-10-2022 14:22:09 [main] BaseSetupPage - I am in onStart method TEST DEMOGURU99.COM
+[INFO ] 18-10-2022 14:22:09 [main] BaseSetupPage - Run set up driver in Base Setup Test
+[INFO ] 18-10-2022 14:22:09 [main] BaseSetupPage -  Driver start !!!
+[INFO ] 18-10-2022 14:22:20 [main] BaseSetupPage - logIn_Test_success test is starting.
+[INFO ] 18-10-2022 14:22:20 [main] BaseSetupPage - logIn_Test_success test is failed.
+[INFO ] 18-10-2022 14:22:21 [main] BaseSetupPage - Test is ending!!!
+[INFO ] 18-10-2022 14:22:22 [main] BaseSetupPage - I am in onFinish method TEST DEMOGURU99.COM
+[INFO ] 18-10-2022 14:23:03 [main] BaseSetupPage - I am in onStart method TEST DEMOGURU99.COM
+[INFO ] 18-10-2022 14:23:03 [main] BaseSetupPage - Run set up driver in Base Setup Test
+[INFO ] 18-10-2022 14:23:03 [main] BaseSetupPage -  Driver start !!!
+[INFO ] 18-10-2022 14:23:12 [main] BaseSetupPage - logIn_Test_success test is starting.
+[INFO ] 18-10-2022 14:23:18 [main] BaseSetupPage - logIn_Test_success test is succeed.
+[INFO ] 18-10-2022 14:23:18 [main] BaseSetupPage - Test is ending!!!
+[INFO ] 18-10-2022 14:23:20 [main] BaseSetupPage - I am in onFinish method TEST DEMOGURU99.COM
+[INFO ] 18-10-2022 15:25:54 [main] BaseSetupPage - Run set up driver in Base Setup Test
+[INFO ] 18-10-2022 15:25:54 [main] BaseSetupPage -  Driver start !!!
+[INFO ] 18-10-2022 15:26:21 [main] BaseSetupPage - Test is ending!!!

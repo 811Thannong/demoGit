@@ -1,0 +1,12 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<!--<suite name="Page Object test example">-->
+<!--    <listeners>-->
+<!--        <listener class-name="ALLUREreport.Listener.WebDriverEventHandler"/>-->
+<!--    </listeners>-->
+<suite name="TestSuite" parallel="methods" thread-count="2"  >
+    <test name ="TEST DEMOGURU99.COM">
+        <classes>
+            <class name="ParallelMode.ParallelMode.Pages.ParallelMode.Pages.Tests.Tests.Pages.ParallelMode.Tests.RunParallelModeTest"/>
+        </classes>
+    </test>
+</suite>
